@@ -37,7 +37,6 @@ npm install --no-bin-links
 
 npm install
 
-npm start
 ```
 
 ---
