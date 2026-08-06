@@ -65,7 +65,7 @@ Depois basta conectar utilizando o **QR Code** ou **Pairing Code**.
 
 # 👑 Desenvolvedor
 
-**Coringa 👑🃏**
+**꧁𓊈𝑾𝒚𝒍𝒍𝒚𝒂𝒎𓊉꧂🃏**
 
 Projeto desenvolvido para a comunidade WhatsApp.
 
