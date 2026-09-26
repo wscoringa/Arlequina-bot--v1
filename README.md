@@ -1,4 +1,4 @@
-# 🃏 Arlequina Bot V1 💜
+# 🃏 Arlequina Bot V2 💜
 
 <p align="center">
   <img src="IMG-20260802-WA0813.jpg" width="100%">
@@ -6,7 +6,7 @@
 
 ## 💜 Sobre o Bot
 
-O **Arlequina Bot V1** é um bot para WhatsApp desenvolvido em **Node.js** utilizando a biblioteca **Baileys**.
+O **Arlequina Bot V2** é um bot para WhatsApp desenvolvido em **Node.js** utilizando a biblioteca **Baileys**.
 
 Ele foi criado para oferecer uma experiência moderna, rápida e divertida, contando com diversos recursos para grupos e uso pessoal.
 
