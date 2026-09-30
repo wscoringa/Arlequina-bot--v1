@@ -36,40 +36,84 @@ O projeto foi criado para oferecer uma experiência moderna, rápida e divertida
 
 ```bash
 cd /storage/emulated/0/Download/Arlequina-bot-v1
-2️⃣ Instale os requisitos básicos
+```
+
+## 2️⃣ Instale os requisitos básicos
+
+```bash
 pkg update
 pkg install python build-essential
-3️⃣ Instalação das dependências
-🟣 Plano A
+```
+
+## 3️⃣ Instalação das dependências
+
+### 🟣 Plano A
+
 Primeiro tente:
+
+```bash
 npm config set bin-links false
 npm install --no-bin-links
-Se funcionar, não precisa usar o Plano B.
-🔵 Plano B
+```
+
+Se funcionar, **não precisa usar o Plano B**.
+
+### 🔵 Plano B
+
 Se o Plano A apresentar erro:
+
+```bash
 npm config set bin-links true
 npm install
-💡 Use somente um dos métodos.
-📦 Requisitos
-🟢 Node.js
-📦 NPM
-🐍 Python
-🔨 Build Essential
-📱 Termux atualizado
-🌐 Conexão com a internet
-🚀 Como iniciar
-Depois que as dependências forem instaladas:
-npm start
-Depois, siga o método de conexão apresentado pelo próprio bot.
-👑 Desenvolvedor
-꧁𓊈𝑾𝒚𝒍𝒍𝒚𝒂𝒎𓊉꧂ 🃏
-Projeto desenvolvido para a comunidade WhatsApp.
-⭐ Apoie o projeto
-Se gostou do Arlequina Bot V2, deixe uma ⭐ no repositório e compartilhe com seus amigos.
-Cada estrela ajuda o projeto a continuar crescendo. 💜🃏
-�
-🃏 ARLEQUINA BOT V2 💜 
-
-�
-Desenvolvido por ꧁𓊈𝑾𝒚𝒍𝒍𝒚𝒂𝒎𓊉꧂ 
 ```
+
+> 💡 Use somente um dos métodos.
+
+---
+
+# 📦 Requisitos
+
+- 🟢 Node.js
+- 📦 NPM
+- 🐍 Python
+- 🔨 Build Essential
+- 📱 Termux atualizado
+- 🌐 Conexão com a internet
+
+---
+
+# 🚀 Como iniciar
+
+Depois que as dependências forem instaladas:
+
+```bash
+npm start
+```
+
+Depois, siga o método de conexão apresentado pelo próprio bot.
+
+---
+
+# 👑 Desenvolvedor
+
+**꧁𓊈𝑾𝒚𝒍𝒍𝒚𝒂𝒎𓊉꧂ 🃏**
+
+Projeto desenvolvido para a comunidade WhatsApp.
+
+---
+
+# ⭐ Apoie o projeto
+
+Se gostou do **Arlequina Bot V2**, deixe uma ⭐ no repositório do GitHub e compartilhe com seus amigos.
+
+Cada estrela ajuda o projeto a continuar crescendo. 💜🃏
+
+---
+
+<p align="center">
+  🃏 <strong>ARLEQUINA BOT V2</strong> 💜
+</p>
+
+<p align="center">
+  Desenvolvido por <strong>꧁𓊈𝑾𝒚𝒍𝒍𝒚𝒂𝒎𓊉꧂</strong>
+</p>
