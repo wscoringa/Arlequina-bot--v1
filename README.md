@@ -1,18 +1,26 @@
-🃏 Arlequina Bot V2 💜
+# 🃏 Arlequina Bot V2 💜
 
 <p align="center">
-  <img src="IMG-20260802-WA0813.jpg" width="100%">
-</p><h1 align="center">🃏 ARLEQUINA BOT V2 💜</h1><p align="center">
+  <img src="IMG-20260802-WA0813.jpg" width="100%" alt="Arlequina Bot V2">
+</p>
+
+<h1 align="center">🃏 ARLEQUINA BOT V2 💜</h1>
+
+<p align="center">
   Um bot para WhatsApp moderno, rápido e cheio de recursos.
-</p>---
+</p>
 
-💜 Sobre o Bot
+---
 
-O Arlequina Bot V2 é um bot para WhatsApp desenvolvido em Node.js, utilizando a biblioteca Baileys.
+## 💜 Sobre o Bot
+
+O **Arlequina Bot V2** é um bot para WhatsApp desenvolvido em **Node.js**, utilizando a biblioteca **Baileys**.
 
 O projeto foi criado para oferecer uma experiência moderna, rápida e divertida, contando com diversos recursos para grupos e uso pessoal.
 
-✨ Recursos
+---
+
+## ✨ Recursos
 
 - 👑 Comandos para administradores
 - 🎮 Diversão e RPG
@@ -24,78 +32,46 @@ O projeto foi criado para oferecer uma experiência moderna, rápida e divertida
 
 ---
 
-📥 Instalação — Termux
+# 📥 Instalação — Termux
 
-📂 Entre na pasta do bot
+## 1️⃣ Entre na pasta do bot
 
+```bash
 cd /storage/emulated/0/Download/Arlequina-bot-v1
-
-📦 Instale os requisitos básicos
-
+2️⃣ Instale os requisitos
+pkg update
 pkg install python build-essential
-
----
-
-🔧 Configuração das dependências
-
+🔧 3️⃣ Instalação das dependências
 🟣 Plano A — Primeiro método
-
 Tente primeiro:
-
 npm config set bin-links false
 npm install --no-bin-links
-
-Se funcionar normalmente, continue para a inicialização do bot.
-
-🔵 Plano B — Se o Plano A der erro
-
-Caso o método anterior apresente algum erro durante a instalação, tente:
-
+Se funcionar sem erros, não precisa executar o Plano B.
+🔵 Plano B — Se o Plano A apresentar erro
+Se o método anterior apresentar erro, tente:
 npm config set bin-links true
 npm install
-
-«⚠️ Não é necessário executar os dois métodos se o primeiro funcionar. O segundo é uma alternativa caso o primeiro apresente problemas.»
-
----
-
+💡 Use apenas um dos métodos. O Plano B é uma alternativa caso o Plano A não funcione.
 📦 Requisitos
-
-- Node.js
-- NPM
-- Python
-- Build Essential
-- Termux atualizado
-
----
-
+🟢 Node.js
+📦 NPM
+🐍 Python
+🔨 Build Essential
+📱 Termux atualizado
+🌐 Conexão com a internet
 🚀 Como iniciar
-
-Depois de instalar todas as dependências:
-
+Depois que as dependências forem instaladas:
 npm start
-
 Depois, siga o método de conexão apresentado pelo próprio bot.
-
----
-
 👑 Desenvolvedor
-
-꧁𓊈𝑾𝒚𝒍𝒍𝒚𝒂𝒎𓊉꧂🃏
-
+꧁𓊈𝑾𝒚𝒍𝒍𝒚𝒂𝒎𓊉꧂ 🃏
 Projeto desenvolvido para a comunidade WhatsApp.
-
----
-
 ⭐ Apoie o projeto
-
 Se gostou do Arlequina Bot V2, deixe uma ⭐ no repositório do GitHub e compartilhe o projeto com seus amigos.
-
 Cada estrela ajuda o projeto a continuar crescendo. 💜🃏
+�
+🃏 ARLEQUINA BOT V2 💜 
 
----
-
-<p align="center">
-  🃏 <strong>ARLEQUINA BOT V2</strong> 💜
-</p><p align="center">
-  Desenvolvido por <strong>꧁𓊈𝑾𝒚𝒍𝒍𝒚𝒂𝒎𓊉꧂</strong>
-</p>
+�
+Desenvolvido por ꧁𓊈𝑾𝒚𝒍𝒍𝒚𝒂𝒎𓊉꧂ 
+```
