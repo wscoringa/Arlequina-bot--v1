@@ -4,10 +4,8 @@
   <img src="IMG-20260802-WA0813.jpg" width="100%" alt="Arlequina Bot V2">
 </p>
 
-<h1 align="center">🃏 ARLEQUINA BOT V2 💜</h1>
-
 <p align="center">
-  Um bot para WhatsApp moderno, rápido e cheio de recursos.
+  <strong>Um bot para WhatsApp moderno, rápido e cheio de recursos.</strong>
 </p>
 
 ---
@@ -38,20 +36,20 @@ O projeto foi criado para oferecer uma experiência moderna, rápida e divertida
 
 ```bash
 cd /storage/emulated/0/Download/Arlequina-bot-v1
-2️⃣ Instale os requisitos
+2️⃣ Instale os requisitos básicos
 pkg update
 pkg install python build-essential
-🔧 3️⃣ Instalação das dependências
-🟣 Plano A — Primeiro método
-Tente primeiro:
+3️⃣ Instalação das dependências
+🟣 Plano A
+Primeiro tente:
 npm config set bin-links false
 npm install --no-bin-links
-Se funcionar sem erros, não precisa executar o Plano B.
-🔵 Plano B — Se o Plano A apresentar erro
-Se o método anterior apresentar erro, tente:
+Se funcionar, não precisa usar o Plano B.
+🔵 Plano B
+Se o Plano A apresentar erro:
 npm config set bin-links true
 npm install
-💡 Use apenas um dos métodos. O Plano B é uma alternativa caso o Plano A não funcione.
+💡 Use somente um dos métodos.
 📦 Requisitos
 🟢 Node.js
 📦 NPM
@@ -67,7 +65,7 @@ Depois, siga o método de conexão apresentado pelo próprio bot.
 ꧁𓊈𝑾𝒚𝒍𝒍𝒚𝒂𝒎𓊉꧂ 🃏
 Projeto desenvolvido para a comunidade WhatsApp.
 ⭐ Apoie o projeto
-Se gostou do Arlequina Bot V2, deixe uma ⭐ no repositório do GitHub e compartilhe o projeto com seus amigos.
+Se gostou do Arlequina Bot V2, deixe uma ⭐ no repositório e compartilhe com seus amigos.
 Cada estrela ajuda o projeto a continuar crescendo. 💜🃏
 �
 🃏 ARLEQUINA BOT V2 💜 
