@@ -1,7 +1,7 @@
 # 🃏 Arlequina Bot V2 💜
 
 <p align="center">
-  <img src="file_0000000059f8820e9b7cdb3de14e28c3.png" width="100%" alt="Arlequina Bot V2">
+  <img src="IMG-20260802-WA0813.jpg" width="100%" alt="Arlequina Bot V2">
 </p>
 
 <p align="center">
